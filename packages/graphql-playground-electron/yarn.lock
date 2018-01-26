@@ -6599,9 +6599,9 @@ redux-localstorage@rc:
   version "1.0.0-rc5"
   resolved "https://registry.yarnpkg.com/redux-localstorage/-/redux-localstorage-1.0.0-rc5.tgz#7067bc4cb0b03b5c791025ac33dde6175d50d5d1"
 
-redux-mock-store@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/redux-mock-store/-/redux-mock-store-1.4.0.tgz#cdc87650f5759f293588fecc9cac2b057d95190d"
+redux-mock-store@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/redux-mock-store/-/redux-mock-store-1.5.0.tgz#ec51e6b46ce5ea67445fe65fd2fe769469ad36ed"
   dependencies:
     lodash.isplainobject "^4.0.6"
 
